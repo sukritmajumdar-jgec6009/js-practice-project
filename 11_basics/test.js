@@ -20,3 +20,7 @@ console.log(null>=0)
 console.log(undefined<=0);
 console.log(undefined==0)
 console.log(typeof bbv +" " + typeof gcc)
+const ggnum=1000000
+const rgd=988.766
+console.log(rgd.toPrecision(3))
+console.log(ggnum.toLocaleString('en-IN'))
